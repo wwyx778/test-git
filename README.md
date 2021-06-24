@@ -1,3 +1,3 @@
 # test-git
 
-This repo for test git command.
+- This repo for test git command.
